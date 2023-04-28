@@ -1,7 +1,22 @@
 body {
     background-color: aqua;
 }
+* {
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+}
 
 .list {
-    background-color: rgb(95, 239, 100);
+    background-color: #5fef64;
+}
+
+.coolText {
+    color: rgb(243, 9, 9);
+    font-size: 30px;
+}
+
+#mainHeader {
+    color: rgb(186, 69, 199);
+    font-size: 80px;
 }
