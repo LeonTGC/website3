@@ -1,0 +1,17 @@
+.navWrapper {
+    border: solid purple 3px;
+    display: flex;
+    justify-content: center;
+}
+nav {
+    border: solid 3px gold;
+    width: 70%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.link {
+    border: solid red 3px;
+    width: 100px;
+    text-align: center;
+}
